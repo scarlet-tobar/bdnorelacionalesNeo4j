@@ -24,7 +24,7 @@
   },
   "contributors": [],
   "scripts": {
-    "dev": "./index.js",
+    "dev": "node ./index.js",
     "test": ""
   },
   "dependencies": {
